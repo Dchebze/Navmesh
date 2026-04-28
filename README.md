@@ -184,3 +184,9 @@ When you click stop it will finish the Current NavMesh build.
 * The RecastNavigation team, find the project here (https://github.com/recastnavigation/recastnavigation)
 
 
+
+[contributors-url]: https://github.com/xenonsmurf/Ffxi_Navmesh_Builder/graphs/contributors
+[forks-url]: https://github.com/xenonsmurf/Ffxi_Navmesh_Builder/network/members
+[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+
+
